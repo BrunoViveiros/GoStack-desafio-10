@@ -23,6 +23,30 @@
       "price": "25.90",
       "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "id": 4,
+      "name": "Teste",
+      "description": "Macarrão com vegetais de primeira linha e camarão dos 7 mares.",
+      "price": "15.90",
+      "available": false,
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png",
+      "name": "dasdasdas",
+      "price": "123",
+      "description": "asdasdasd",
+      "available": true,
+      "id": 5
+    },
+    {
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png",
+      "name": "La Teste",
+      "price": "1212",
+      "description": "qeaçfjahlkfg.adhklfh adfasd",
+      "available": true,
+      "id": 6
     }
   ]
 }
